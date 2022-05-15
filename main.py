@@ -2,7 +2,7 @@ import cv2
 import os
 
 # Picture's path
-path = r'/home/biruk/Desktop/face/Photos'
+path = r' '
 
 # loop picture's names that present in Photos folder
 for img_r in os.listdir(path):
